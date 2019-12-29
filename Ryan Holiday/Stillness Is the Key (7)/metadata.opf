@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53d0295c-aa7d-44d2-963e-020290449c3e</dc:identifier>
+        <dc:title>Stillness Is the Key</dc:title>
+        <dc:creator opf:file-as="Holiday, Ryan" opf:role="aut">Ryan Holiday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;In the third book in the trilogy that includes &lt;i&gt;The Obstacle Is the Way &lt;/i&gt;and &lt;i&gt;Ego Is the Enemy&lt;/i&gt;, bestselling author Ryan Holiday draws on ancient Stoic and Buddhist wisdom to show why slowing down is essential to getting ahead.&lt;/b&gt;&lt;br&gt;Throughout history, there's been one indelible quality that great leaders, thinkers, artists, and visionaries have shared. It enables them to conquer their tempers. To avoid distraction and discover great insights. To achieve happiness and do the right thing. &lt;br&gt;The Zen Buddhists described it as inner peace, and knew it was essential whether you were a Samurai warrior or a monk. The Stoics and Epicureans called it ataraxia and believed it was a bulwark against the passions of the mob, a requirement of good leadership and a pathway to deep truth. Ryan Holiday calls it stillness&amp;#8212;to be steady while the world spins around you. &lt;br&gt;In this book, he outlines a path for achieving this timeless, but urgently necessary way of living....</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ryan Holiday&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T10:12:18.155000+00:00" name="calibre:timestamp"/>
+        <meta content="Stillness Is the Key" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

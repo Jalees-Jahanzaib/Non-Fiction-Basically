@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">966f9e09-6168-4674-8d9e-fc7e456d04e4</dc:identifier>
+        <dc:title>The autobiography of Malcolm X</dc:title>
+        <dc:creator opf:file-as="X, Malcolm &amp; Haley, Alex" opf:role="aut">Malcolm X</dc:creator>
+        <dc:creator opf:file-as="X, Malcolm &amp; Haley, Alex" opf:role="aut">Alex Haley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+If there was any one man who articulated the anger, the struggle, and the beliefs of African Americans in the 1960s, that man was Malxolm X. His AUTOBIOGRAPHY is now an established classic of modern America, a book that expresses like none other the crucial truth about our times."Extraordinary. A brilliant, painful, important book."TEH NEW YORKTIMES</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345350688</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Religious</dc:subject>
+        <dc:subject>USA</dc:subject>
+        <dc:subject>Afro-Americans</dc:subject>
+        <dc:subject>African Americans</dc:subject>
+        <dc:subject>Cultural Heritage</dc:subject>
+        <dc:subject>People of Color</dc:subject>
+        <dc:subject>Biography: political</dc:subject>
+        <dc:subject>Black Muslims - Biography</dc:subject>
+        <dc:subject>Autobiography: Historical; Political &amp; Military</dc:subject>
+        <dc:subject>Islam - General</dc:subject>
+        <dc:subject>X; Malcolm</dc:subject>
+        <dc:subject>Black &amp; Asian studies</dc:subject>
+        <dc:subject>Ethnic Studies - African American Studies - General</dc:subject>
+        <dc:subject>Political Freedom &amp; Security - Civil Rights</dc:subject>
+        <dc:subject>Black Muslims</dc:subject>
+        <dc:subject>Afro-Americans - Biography</dc:subject>
+        <dc:subject>Black studies</dc:subject>
+        <meta content="{&quot;Malcolm X&quot;: &quot;&quot;, &quot;Alex Haley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-12-10T18:10:24.695000+00:00" name="calibre:timestamp"/>
+        <meta content="autobiography of Malcolm X, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

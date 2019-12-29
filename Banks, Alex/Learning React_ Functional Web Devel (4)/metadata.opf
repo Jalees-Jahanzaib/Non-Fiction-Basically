@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a0a7f4d-880c-4481-befe-f8d4213b5a01</dc:identifier>
+        <dc:title>Learning React: Functional Web Development with React and Redux</dc:title>
+        <dc:creator opf:file-as="Banks, Alex" opf:role="aut">Banks, Alex</dc:creator>
+        <dc:creator opf:file-as="Banks, Alex" opf:role="aut">Porcello, Eve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-26T17:00:00+00:00</dc:date>
+        <dc:description>If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you'll learn how to work with functional programming and the latest ECMAScript features.</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071HB1526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Banks, Alex&quot;: &quot;&quot;, &quot;Porcello, Eve&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-07T09:51:31.764000+00:00" name="calibre:timestamp"/>
+        <meta content="Learning React: Functional Web Development with React and Redux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

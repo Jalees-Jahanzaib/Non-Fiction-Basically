@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73dfbdca-c690-457a-8d18-0f9f395bcf81</dc:identifier>
+        <dc:title>Make It Stick</dc:title>
+        <dc:creator opf:file-as="Brown, Peter C." opf:role="aut">Peter C. Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Drawing on cognitive psychology and other fields, Make It Stick offers techniques for becoming more productive learners, and cautions against study habits and practice routines that turn out to be counterproductive. The book speaks to students, teachers, trainers, athletes, and all those interested in lifelong learning and self-improvement.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780674419384</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">bb02118f-5082-4719-b7e0-5aa5142f2c97</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Educational Psychology</dc:subject>
+        <dc:subject>Teaching Methods &amp; Materials</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Cognitive Psychology</dc:subject>
+        <meta content="{&quot;Peter C. Brown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T18:10:33.312000+00:00" name="calibre:timestamp"/>
+        <meta content="Make It Stick" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

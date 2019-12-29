@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">298b39bc-b434-423e-9618-52cb1d48d849</dc:identifier>
+        <dc:title>The Happiness Equation: Want Nothing + Do Anything = Have Everything</dc:title>
+        <dc:creator opf:file-as="Pasricha, Neil" opf:role="aut">Neil Pasricha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-08T07:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00R6M8EEE</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Neil Pasricha&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T18:10:52.393000+00:00" name="calibre:timestamp"/>
+        <meta content="Happiness Equation: Want Nothing + Do Anything = Have Everything, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

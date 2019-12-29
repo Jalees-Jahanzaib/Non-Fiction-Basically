@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c25d5e0-7f83-40ba-aa50-93a2208efabb</dc:identifier>
+        <dc:title>Think and Grow Rich!</dc:title>
+        <dc:creator opf:file-as="Hill, Napoleon" opf:role="aut">Napoleon Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>ManyBooks.net</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Napoleon Hill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-22T19:03:28.704000+00:00" name="calibre:timestamp"/>
+        <meta content="Think and Grow Rich!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

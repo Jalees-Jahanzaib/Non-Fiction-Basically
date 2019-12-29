@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8735fe2-4609-4c00-b7f4-e8bc4f4a6661</dc:identifier>
+        <dc:title>Grit</dc:title>
+        <dc:creator opf:file-as="Duckworth, Angela" opf:role="aut">Angela Duckworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>In this must-read book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, students, educators, athletes, and business people&amp;#8212;both seasoned and new&amp;#8212;that the secret to outstanding achievement is not talent but a special blend of passion and persistence she calls "grit."&lt;BR&gt;Drawing on her own powerful story as the daughter of a scientist who frequently noted her lack of "genius," Duckworth, now a celebrated researcher and professor, describes her early eye-opening stints in teaching, business consulting, and neuroscience, which led to the hypothesis that what really drives success is not "genius" but a unique combination of passion and long-term perseverance.&lt;BR&gt; &lt;BR&gt;In &lt;i&gt;Grit&lt;/i&gt;, she takes readers into the field to visit cadets struggling through their first days at West Point, teachers working in some of the toughest schools, and young finalists in the National Spelling Bee. She also mines fascinating insights from history and...</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Angela Duckworth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T10:52:18.377000+00:00" name="calibre:timestamp"/>
+        <meta content="Grit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da4d1131-cb5b-4796-a85f-c62c8736adc6</dc:identifier>
+        <dc:title>The Daily Stoic</dc:title>
+        <dc:creator opf:file-as="Holiday, Ryan &amp; Hanselman, Stephen" opf:role="aut">Holiday, Ryan</dc:creator>
+        <dc:creator opf:file-as="Holiday, Ryan &amp; Hanselman, Stephen" opf:role="aut">Hanselman, Stephen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-17T18:30:00+00:00</dc:date>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Hanselman, Stephen&quot;: &quot;&quot;, &quot;Holiday, Ryan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T10:12:33.304000+00:00" name="calibre:timestamp"/>
+        <meta content="Daily Stoic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

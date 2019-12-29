@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d32b8a68-b0a6-4455-80e5-9086f69c8d76</dc:identifier>
+        <dc:title>The Power of Self-Discipline</dc:title>
+        <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-11T04:00:00+00:00</dc:date>
+        <dc:publisher>ePub Bud (www.epubbud.com)</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0f2564fa-5957-42e0-ab07-f53ad38e0e2c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Brian Tracy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T10:44:30.821000+00:00" name="calibre:timestamp"/>
+        <meta content="Power of Self-Discipline, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
